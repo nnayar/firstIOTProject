@@ -1,0 +1,29 @@
+{
+  "name": "firstIOTProject",
+  "version": "1.0.0",
+  "description": "My First IOT project to pull data from 3rd party API's",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "lodash":"*",
+    "morgan": "*",
+    "chance":"*",
+    "stochastic":"*",
+    "randgen":"*",
+    "faker":"*",
+    "random-mac":"*",
+    "math":"*",
+    "geohash":"*",
+    "d3":"*",
+    "request":"*",
+    "util":"*",
+    "cli-table2":"*",
+    "async":"*",
+    "async-foreach":"*",
+    "dc":"*"
+  },
+  "author": "nitin nayar",
+  "license": "ISC"
+}
